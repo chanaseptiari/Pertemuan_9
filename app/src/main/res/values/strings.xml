@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pertemuan 9</string>
+    <string name="persegi">Persegi</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="sisi">sisi</string>
+    <string name="hitung_persegi">Hitung Persegi</string>
+    <string name="keliling_persegi">Keliling Persegi</string>
+    <string name="_0">0</string>
+    <string name="luas_persegi">Luas Persegi</string>
+    <string name="lebar">Lebar</string>
+    <string name="panjang">Panjang</string>
+    <string name="hitung_persegi_panjang">Hitung Persegi Panjang</string>
+    <string name="keliling_persegi_panjang">Keliling Persegi Panjang</string>
+    <string name="luas_persegi_panjang">Luas Persegi Panjang</string>
+    <string name="image">Image</string>
+</resources>
